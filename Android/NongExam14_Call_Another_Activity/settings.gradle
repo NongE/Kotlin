@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='NongExam14_Call_Another_Activity'

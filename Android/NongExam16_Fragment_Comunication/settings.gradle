@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='NongExam16_Fragment_Comunication'
